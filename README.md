@@ -7,4 +7,4 @@ LeetCode C++ Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./src/twoSum/twoSum.cpp)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./src/twoSum.cpp)|Medium|
